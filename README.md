@@ -8,7 +8,7 @@ Jestem studentem **4. semestru Automatyki i Robotyki na AGH** w Krakowie. Łącz
 - ⚙️ Mam doświadczenie w pracy z mikrokontrolerami i minikomputerami (**Arduino, ESP32, Raspberry Pi**).
 - 🐧 Na co dzień korzystam z **Gita** i poruszam się w środowisku **Ubuntu**, co świetnie sprawdza się przy pracy z ROS-em.
 - 🌱 **Aktualnie na tapecie:** Uczę się **TensorFlow** ze szczególnym naciskiem na Computer Vision (Image Classification) oraz zgłębiam **ROS** (Robot Operating System).
-- 📫 Jak się ze mną skontaktować: przez profil na GitHubie!
+
 
 ## 🛠️ Technologie i narzędzia
 
