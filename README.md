@@ -1,4 +1,4 @@
-# Cześć, jestem corki1337! 👋
+# Cześć, jestem corki1337! 
 
 Jestem studentem **4. semestru Automatyki i Robotyki na AGH** w Krakowie. Łączę programowanie (głównie **C++** i **Python**) ze światem hardware'u, a w wolnym czasie zgłębiam tajniki sztucznej inteligencji.
 
@@ -30,6 +30,5 @@ Jestem studentem **4. semestru Automatyki i Robotyki na AGH** w Krakowie. Łącz
 
 ## 📈 Statystyki
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corki1337&show_icons=true&theme=tokyonight&hide_border=true" alt="Statystyki corki1337" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corki1337&layout=compact&theme=tokyonight&hide_border=true" alt="Najczęściej używane języki" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corki1337&theme=tokyonight" alt="Języki" />
 </p>
