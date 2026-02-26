@@ -7,7 +7,7 @@ Jestem studentem **4. semestru Automatyki i Robotyki na AGH** w Krakowie. Łącz
 - 🔭 Moje dotychczasowe projekty to m.in. **[NetSim](https://github.com/corki1337/NetSim)** (symulacja sieci w C++) oraz **[bala_tracker](https://github.com/corki1337/bala_tracker)** (Python).
 - ⚙️ Mam doświadczenie w pracy z mikrokontrolerami i minikomputerami (**Arduino, ESP32, Raspberry Pi**).
 - 🐧 Na co dzień korzystam z **Gita** i poruszam się w środowisku **Ubuntu**, co świetnie sprawdza się przy pracy z ROS-em.
-- 🌱 **Aktualnie na tapecie:** Uczę się **TensorFlow** ze szczególnym naciskiem na Computer Vision (Image Classification) oraz zgłębiam **ROS** (Robot Operating System).
+- 🌱 **Aktualnie na tapecie:** Uczę się **TensorFlow** ze szczególnym naciskiem na Computer Vision oraz zgłębiam **ROS** (Robot Operating System).
 
 
 ## 🛠️ Technologie i narzędzia
