@@ -1,6 +1,6 @@
 # Cześć, jestem corki1337! 
 
-Jestem studentem **4. semestru Automatyki i Robotyki na AGH** w Krakowie. Łączę programowanie (głównie **C++** i **Python**) ze światem hardware'u, a w wolnym czasie zgłębiam tajniki sztucznej inteligencji.
+Jestem studentem **5. semestru Automatyki i Robotyki na AGH** w Krakowie. Łączę programowanie (głównie **C++** i **Python**) ze światem hardware'u, a w wolnym czasie zgłębiam tajniki sztucznej inteligencji.
 
 ## 👨‍💻 O mnie
 - 🎓 Rozwijam swoje inżynierskie zaplecze na AGH, łącząc wiedzę ze studiów z praktyką.
