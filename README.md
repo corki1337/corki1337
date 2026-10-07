@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **5th-semester Automatic Control & Robotics (AiR)** student at **AGH University of Krakow**, combining theoretical engineering with hands-on hardware design.
-- ⚡ **Embedded & Firmware:** Building custom bare-metal & RTOS drivers, graphics pipelines, and asynchronous peripheral tasks for microcontrollers (ESP32-S3, Arduino, Raspberry Pi).
+- ⚡ **Embedded & Firmware:** Building custom bare-metal & RTOS drivers, graphics pipelines, and asynchronous peripheral tasks for microcontrollers (STM32, ESP32-S3, Arduino, Raspberry Pi).
 - 🐧 **Linux-native:** Daily driver on Ubuntu with Git workflows, CMake build pipelines, and low-level system debugging.
 - 🌱 **Current Focus:** Deepening knowledge in robotics (ROS), real-time embedded architectures, and computer vision.
 
