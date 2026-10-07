@@ -1,91 +1,74 @@
 <div align="center">
 
-# Hi, I'm Maciej! 👋
-### 5th-semester Automatic Control & Robotics Student @ AGH University of Krakow
-**Embedded Systems • C++ / Python • Robotics & Computer Vision**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f242d&height=200&section=header&text=Maciej%20Stadler&fontSize=42&fontAlignY=38&desc=5th-semester%20Automatic%20Control%20%26%20Robotics%20Student%20@%20AGH&descFontSize=17&descAlignY=58" width="100%" alt="Header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maciej_Stadler-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-stadler-2bba76334)
-[![GitHub](https://img.shields.io/badge/GitHub-corki1337-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corki1337)
-[![Location](https://img.shields.io/badge/Location-Krakow%2C%20Poland-E95420?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+  <p align="center">
+    <b>Embedded Systems • Low-Level C++ / Python • Robotics & Computer Vision</b>
+  </p>
 
-<p align="center">
-  Bridging low-level hardware engineering with modern software architecture.<br/>
-  Passionate about bare-metal / RTOS firmware, embedded graphics, robotics (ROS), and real-time computer vision.
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/maciej-stadler-2bba76334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/corki1337"><img src="https://img.shields.io/badge/GitHub-corki1337-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/Location-Kraków%2C%20Poland-238636?style=flat-square" alt="Location" />
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 **5th-semester Automatic Control & Robotics (AiR)** student at **AGH University of Krakow**, combining academic theory with hands-on engineering.
-- ⚡ **Embedded & Firmware Focus:** Designing low-level drivers, memory-efficient graphics pipelines, and asynchronous FreeRTOS tasks on microcontrollers (ESP32-S3, Arduino, Raspberry Pi).
-- 🐧 **Linux-native:** Developing daily on Ubuntu, utilizing Git workflows, CMake build systems, and containerized dev environments.
-- 🌱 **Currently exploring:** Advanced ROS concepts and machine learning applications in Computer Vision.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **🎮 Konsoluch (ESP32-S3 Handheld Console)** | Custom-built retro handheld game console. Features a bare-metal 2D graphics engine with SPI DMA double-buffering, an asynchronous FreeRTOS I2S audio task, calibrated ADC battery telemetry, and 3 built-in games (including Pickle Snake 🥒). | `ESP-IDF` `C++17` `FreeRTOS` `SPI DMA` `I2S` | [Repository](https://github.com/corki1337/esp32-console) |
-| **🌐 NetSim (Network Simulator)** | Object-oriented logistics and network simulation engine utilizing advanced C++ design patterns, factory models, package routing queues, and robust data structures. | `C++` `STL` `OOP` `CMake` `GoogleTest` | [Repository](https://github.com/corki1337/NetSim) |
-| **👁️ bala_tracker** | Real-time computer vision application for detecting and tracking moving objects with motion trajectory analysis. | `Python` `OpenCV` `NumPy` | [Repository](https://github.com/corki1337/bala_tracker) |
+- 🎓 **5th-semester Automatic Control & Robotics (AiR)** student at **AGH University of Krakow**, combining theoretical engineering with hands-on hardware design.
+- ⚡ **Embedded & Firmware:** Building custom bare-metal & RTOS drivers, graphics pipelines, and asynchronous peripheral tasks for microcontrollers (ESP32-S3, Arduino, Raspberry Pi).
+- 🐧 **Linux-native:** Daily driver on Ubuntu with Git workflows, CMake build pipelines, and low-level system debugging.
+- 🌱 **Current Focus:** Deepening knowledge in robotics (ROS), real-time embedded architectures, and computer vision.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+### 🚀 Featured Engineering Projects
 
-### ⚡ Embedded & Hardware
-<p>
-  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP32--S3-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocols-SPI%20%7C%20I2S%20%7C%20I2C%20%7C%20UART%20%7C%20PWM-blue?style=for-the-badge" />
-</p>
-
-### 💻 Languages & Build Systems
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-</p>
-
-### 🤖 Robotics & Vision
-<p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-### 🔧 Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+#### 🎮 [Konsoluch — ESP32-S3 Retro Handheld Console](https://github.com/corki1337/esp32-console)
+> *A complete handheld game console engineered from the ground up on ESP32-S3 without heavy external GUI libraries.*
+- **Custom 2D Graphics Engine:** 160×128 ST7735S display driven via asynchronous **SPI DMA double-buffering** with color-key transparency.
+- **Multithreaded Audio:** Independent **FreeRTOS task** streaming 16-bit 16 kHz PCM audio over **I2S** with thread-safe mutex dispatch.
+- **Hardware Integration:** Hardware curve-calibrated **ADC** battery monitoring, **LEDC PWM** gamma-corrected backlight, and **NVS** flash persistence.
+- **Built-in Games:** 3 fully functional games written in modern C++ (including *Pickle Snake* with dynamic body corners).
+- `ESP-IDF` • `C++17` • `FreeRTOS` • `SPI DMA` • `I2S Audio` • `Bare-metal HAL`
 
 ---
 
-## 📊 GitHub Analytics
+#### 🌐 [NetSim — Network & Logistics Simulator](https://github.com/corki1337/NetSim)
+> *An object-oriented simulation framework modeling package flow and logistics networks.*
+- Built with modern **C++ OOP** principles, strict memory management, and STL data structures.
+- Implements factory patterns, queueing nodes, deterministic routing algorithms, and comprehensive automated tests.
+- `C++` • `Object-Oriented Design` • `STL` • `CMake` • `Unit Testing`
+
+---
+
+#### 👁️ [bala_tracker — Real-Time Object Tracking](https://github.com/corki1337/bala_tracker)
+> *Computer vision pipeline for dynamic moving object detection and motion trajectory analysis.*
+- Real-time video frame processing with background subtraction and contour tracking.
+- `Python` • `OpenCV` • `NumPy` • `Computer Vision`
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corki1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corki1337&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,cmake,linux,git,ros,opencv,tensorflow,arduino,raspberrypi,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corki1337&theme=tokyonight" width="97%" />
-</p>
+<br/>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Embedded & Systems** | ESP32-S3, ESP-IDF, FreeRTOS, Arduino, Raspberry Pi, SPI, I2S, ADC, PWM, UART |
+| **Languages** | C++17, C, Python, CMake |
+| **Robotics & AI** | ROS, OpenCV, TensorFlow |
+| **Environment** | Linux (Ubuntu), Git, VS Code |
 
 ---
 
-## 📬 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/maciej-stadler-2bba76334](https://www.linkedin.com/in/maciej-stadler-2bba76334)
-- **GitHub:** [@corki1337](https://github.com/corki1337)
+<div align="center">
+  <sub>Designed & Developed by Maciej Stadler • Kraków, Poland</sub>
+</div>
