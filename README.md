@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:21262d&height=200&section=header&text=Maciej%20Stadler&fontSize=42&fontAlignY=38&desc=5th-semester%20Automatic%20Control%20and%20Robotics%20Student%20%7C%20AGH&descFontSize=16&descAlignY=58" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1f6feb&height=200&section=header&text=Maciej%20Stadler&fontSize=42&fontAlignY=38&desc=5th-semester%20Automatic%20Control%20and%20Robotics%20Student%20%7C%20AGH&descFontSize=16&descAlignY=58&fontColor=ffffff&descColor=79c0ff" width="100%" alt="Header" />
+
 
   <p align="center">
     <b>Embedded Systems • Low-Level C++ / Python • Robotics & Computer Vision</b>
