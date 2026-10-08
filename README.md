@@ -29,7 +29,7 @@
 
 ### 🚀 Featured Engineering Projects
 
-#### 🎮 [Konsoluch — ESP32-S3 Retro Handheld Console](https://github.com/corki1337/esp32-console)
+#### 🎮 [ESP32-S3 Retro Handheld Console](https://github.com/corki1337/esp32-console)
 > *A complete handheld game console engineered from the ground up on ESP32-S3 without heavy external GUI libraries.*
 - **Custom 2D Graphics Engine:** 160×128 ST7735S display driven via asynchronous **SPI DMA double-buffering** with color-key transparency.
 - **Multithreaded Audio:** Independent **FreeRTOS task** streaming 16-bit 16 kHz PCM audio over **I2S** with thread-safe mutex dispatch.
